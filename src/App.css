@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
 }
 
 .App-logo {
@@ -8,10 +11,13 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+  background-color: #ab2a19;
+  height: 100px;
+  width: 100%;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-title {
